@@ -71,7 +71,7 @@ You can follow the provided example scirpts in `./dump_match` to generate datase
 
 ## Acknowledgement
 
-This code is borrowed from [OANet](https://github.com/zjhthu/OANet) and [CLNet](https://github.com/sailor-z/CLNet) 和 [MatchMamba]([https://github.com/sailor-z/CLNet](https://github.com/Mrwyb/MatchMamba)). If using the part of code related to data generation, testing and evaluation, please cite these papers.
+This code is borrowed from [OANet](https://github.com/zjhthu/OANet) and [CLNet](https://github.com/sailor-z/CLNet) 和 [MatchMamba](https://github.com/Mrwyb/MatchMamba). If using the part of code related to data generation, testing and evaluation, please cite these papers.
 
 ```
 @inproceedings{zhang2019learning,
