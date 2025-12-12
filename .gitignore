@@ -59,3 +59,11 @@ Thumbs.db
 .env
 .env.local
 
+# Ignore intermediate/useless files
+core/MatchMamba_copy_useless.py
+core/MatchMamba_raw.py
+core/SFMambaNet_google_useless.py
+
+# Ignore docs folder
+docs/
+

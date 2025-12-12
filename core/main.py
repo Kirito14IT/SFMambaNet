@@ -11,7 +11,7 @@ os.environ['CUDA_VISIBLE_DEVICES'] = config.gpu_id
 import torch.utils.data
 import sys
 from data import collate_fn, CorrespondencesDataset
-from MatchMamba import MatchMamba as Model
+from SFMamba import SFMamba as Model
 from train import train
 from test import test
 
