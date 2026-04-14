@@ -98,10 +98,4 @@ This code is borrowed from [OANet](https://github.com/zjhthu/OANet), [CLNet](htt
 ```
 ## Star History
 
-<a href="https://www.star-history.com/?repos=Kirito14IT%2FSFMambaNet&type=date&legend=bottom-right">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=Kirito14IT/SFMambaNet&type=date&theme=dark&legend=top-left" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=Kirito14IT/SFMambaNet&type=date&legend=top-left" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=Kirito14IT/SFMambaNet&type=date&legend=top-left" />
- </picture>
-</a>
+[![Star History Chart](https://api.star-history.com/chart?repos=Kirito14IT/SFMambaNet&type=timeline&legend=top-left)](https://www.star-history.com/?repos=Kirito14IT%2FSFMambaNet&type=timeline&legend=top-left)
