@@ -5,7 +5,15 @@ This paper focuses on pruning correspondences from an initial set of corresponde
 If you find this project useful, please cite:
 
 ```
-BibTex
+@misc{wang2026sfmambanetspectralfrequencyenhancedselective,
+      title={SFMambaNet: Spectral-Frequency Enhanced Selective State Space Model for Correspondence Pruning}, 
+      author={Zhihua Wang and Yanping Li and Yizhang Liu},
+      year={2026},
+      eprint={2606.04493},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2606.04493}, 
+}
 ```
 
 ## Requirements
