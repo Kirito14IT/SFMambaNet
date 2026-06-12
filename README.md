@@ -1,4 +1,4 @@
-# SFMambaNet implementation
+# SFMambaNet: Spectral-Frequency Enhanced Selective State Space Model for Correspondence Pruning
 
 This paper focuses on pruning correspondences from an initial set of correspondences with a low inlier ratio.
 
@@ -22,9 +22,9 @@ Please use Python 3.10, opencv-python (4.7.0.72), Pytorch (>= 2.1.1+cu118), and 
 
 ## Example scripts
 
-### Run the demo
+### Clone the repository
 
-For a quick start, clone the repo and download the pretrained model.
+For a quick start, clone the repository.
 
 ```bash
 git clone https://github.com/Kirito14IT/SFMambaNet
