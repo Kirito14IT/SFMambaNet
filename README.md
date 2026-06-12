@@ -1,4 +1,4 @@
-# SFMambaNet: Spectral-Frequency Enhanced Selective State Space Model for Correspondence Pruning
+# SFMambaNet: Spectral-Frequency Enhanced Selective State Space Model for Correspondence Pruning Implementation
 
 This paper focuses on pruning correspondences from an initial set of correspondences with a low inlier ratio.
 
